@@ -18,9 +18,8 @@
 
 <p align="left">Estudiante de Ingeniería de Sistemas con gran interés por la tecnología, el trabajo en equipo y la participación activa en proyectos. Durante mi trayectoria académica he tenido la oportunidad de involucrarme en proyectos de desarrollo web y móvil, lo cual me ha permitido adquirir y fortalecer conocimientos tanto en el frontend como en el backend.<br><br>En el área de frontend, cuento con experiencia utilizando Angular, mientras que en el backend he trabajado con Spring Boot. Además, manejo lenguajes de programación como Java y Python, destacándome especialmente en Java. En cuanto a bases de datos, tengo experiencia trabajando con PostgreSQL y MySQL (a través de MySQL Workbench), y en el despliegue de aplicaciones he utilizado Docker.<br><br>Por el lado del desarrollo de aplicaciones móviles, he trabajado con Flutter y FlutterFlow. También tengo conocimientos en control de versiones con Git, lo cual me ha permitido gestionar de manera eficiente los cambios y colaboraciones en los proyectos en los que he participado.<br><br>Estoy motivada por aprender nuevas herramientas, asumir retos y contribuir con compromiso y creatividad en los proyectos donde participe. Me considero una persona responsable, comprometida y con una actitud abierta al aprendizaje constante. Disfruto aportar soluciones a diferentes problemáticas, compartir lo que sé y seguir creciendo tanto personal como profesionalmente.</p>
 
-###
+## 📂 Algunos de mis proyectos
 
-<h3 align="left">Algunos de mis proyectos</h3>
 - [Viajes Roxana](#) (Framework: Java Server Faces)
 - [Journal App](#) (Framework: React)
 - [Dashboard ICFES](#) (Java)
@@ -31,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages y herramientas</h3>
 
 ###
 
