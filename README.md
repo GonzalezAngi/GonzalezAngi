@@ -1,8 +1,15 @@
+###
+<p align="center">
+ <a href="https://github.com/fairyland0926">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+</a>
+</p>
+
+
 <div align="center">
   <img height="150" src="https://img.freepik.com/vector-gratis/programador-trabajando-escritorio_23-2148288753.jpg"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/angie-gonzalez-ing" target="_blank">
@@ -14,7 +21,11 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GonzalezAngi" />
+</p>
 
+###
 <h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
