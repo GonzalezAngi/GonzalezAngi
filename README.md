@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/angie-gonzalez-ing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="angielorenag977@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -26,8 +29,6 @@
 ###
 
 <h3 align="left">🛠 Languages y herramientas</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -68,4 +69,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
+
+###
+
+<h2 align="left">🔥   Mis estadísticas</h2>
+<hr>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=GonzalezAngi&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezAngi&layout=compact&theme=aura&langs_count=9" />
+<img height="150" />
+
+
+
 
