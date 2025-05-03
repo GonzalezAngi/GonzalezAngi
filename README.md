@@ -20,13 +20,8 @@
 
 ## 📂 Algunos de mis proyectos
 
-- [Viajes Roxana](#) (Framework: Java Server Faces)
-- [Journal App](#) (Framework: React)
-- [Dashboard ICFES](#) (Java)
-- [Heroes-spa](#) (React)
-- [GifExpertApp](#) (React)
-- [Librería JNI sobre el algoritmo JSF](#) (Shortest Job First)
-- [Cifrado Cesar](#) (JavaScript)
+- [Proyecto de grado App móvil](https://github.com/GonzalezAngi/front_ProyectoGrado)
+- [App en flutter](https://github.com/GonzalezAngi/go_router) 
 
 ###
 
