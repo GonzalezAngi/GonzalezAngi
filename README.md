@@ -85,8 +85,12 @@
 
 <h2 align="left">🔥   Mis estadísticas</h2>
 <hr>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=GonzalezAngi&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezAngi&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px"
+src="https://github-readme-stats-git-masterorg.vercel.app/api?username=GonzalezAngi&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img align="right" height="150px" width="350px"
+src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=GonzalezAngi&layout=compact&theme=aura&langs_count=9" />
+
 <img height="150" />
 
 
